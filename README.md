@@ -13,7 +13,7 @@ Installation and Setup
 To set up the AI-Powered Resume and Cover Letter Generator, follow these steps:
 
 Clone the repository:
-git clone https://github.com/MGJillaniMughal/AI-Powered-Resume-and-Cover-Letter-Generator.git
+git clone https://github.com/Megxeter/AI-resume-and-cover-letter-generator-by-Mohd-yasir-siddique-using-python.git
 Navigate to the project directory:
 cd AI-Powered-Resume-and-Cover-Letter-Generator
 Install required dependencies (assuming Python and pip are already installed):
